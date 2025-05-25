@@ -1,0 +1,12 @@
+/Users/anamarija/Desktop/domasni csharp/TimeTracker/TimeTracker.Domain/bin/Debug/net6.0/TimeTracker.Domain.deps.json
+/Users/anamarija/Desktop/domasni csharp/TimeTracker/TimeTracker.Domain/bin/Debug/net6.0/TimeTracker.Domain.dll
+/Users/anamarija/Desktop/domasni csharp/TimeTracker/TimeTracker.Domain/bin/Debug/net6.0/TimeTracker.Domain.pdb
+/Users/anamarija/Desktop/domasni csharp/TimeTracker/TimeTracker.Domain/obj/Debug/net6.0/TimeTracker.Domain.csproj.AssemblyReference.cache
+/Users/anamarija/Desktop/domasni csharp/TimeTracker/TimeTracker.Domain/obj/Debug/net6.0/TimeTracker.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anamarija/Desktop/domasni csharp/TimeTracker/TimeTracker.Domain/obj/Debug/net6.0/TimeTracker.Domain.AssemblyInfoInputs.cache
+/Users/anamarija/Desktop/domasni csharp/TimeTracker/TimeTracker.Domain/obj/Debug/net6.0/TimeTracker.Domain.AssemblyInfo.cs
+/Users/anamarija/Desktop/domasni csharp/TimeTracker/TimeTracker.Domain/obj/Debug/net6.0/TimeTracker.Domain.csproj.CoreCompileInputs.cache
+/Users/anamarija/Desktop/domasni csharp/TimeTracker/TimeTracker.Domain/obj/Debug/net6.0/TimeTracker.Domain.dll
+/Users/anamarija/Desktop/domasni csharp/TimeTracker/TimeTracker.Domain/obj/Debug/net6.0/refint/TimeTracker.Domain.dll
+/Users/anamarija/Desktop/domasni csharp/TimeTracker/TimeTracker.Domain/obj/Debug/net6.0/TimeTracker.Domain.pdb
+/Users/anamarija/Desktop/domasni csharp/TimeTracker/TimeTracker.Domain/obj/Debug/net6.0/ref/TimeTracker.Domain.dll
